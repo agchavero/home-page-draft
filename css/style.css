@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    height:68%;
+}
+
+body{
+    background-image: url(../media/images/home2.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.icons{
+    font-family: Tahoma, "Trebuchet MS", sans-serif;
+    text-align: center;
+    font-size: 12pt;
+}
+
+.folder{
+    position: relative;
+    bottom: 20px;
+    left: 7px;
+    width: fit-content;
+}
+.f{
+    max-width: 50px;
+}
+
+
+.paint{
+    position: relative;
+    bottom: 2px;
+    left: -3px;
+    width: 70px;
+}
+.p{
+    max-width: 50px;
+}
+
+.wmp{
+    position: relative;
+    bottom:-10px;
+    left: 1px;
+    width: 70px;
+}
+
+.player{
+    max-width: 50px;
+}
+audio{
+    width: 250px;
+    position: relative;
+    bottom: -430px;
+    opacity: 0.8;
+}
